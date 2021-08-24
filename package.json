@@ -56,7 +56,7 @@
     "@loopback/rest-explorer": "^3.3.2",
     "@loopback/service-proxy": "^3.2.2",
     "dotenv": "^10.0.0",
-    "loopback-connector-es": "^1.4.1",
+    "loobback-connector-esv6": "https://github.com/codeedu/loopback-connector-elastic-search/tarball/master",
     "tslib": "^2.0.0"
   },
   "devDependencies": {
